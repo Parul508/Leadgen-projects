@@ -1,9 +1,3 @@
-Perfect 👌 thanks for sharing the repo screenshot — now I can tailor the **README** according to the actual files inside (Instagram, LinkedIn, Google Maps scraping, automation scripts, etc.).
-
-Here’s an adjusted **README.md** draft for your LeadGen repo:
-
----
-
 # Lead Generation Projects
 
 ## 📌 About
@@ -67,8 +61,3 @@ If you’d like to collaborate or discuss automation + lead generation, feel fre
 
 * **LinkedIn:** www.linkedin.com/in/parul-sharma-949a6826b
 * **Email:** Parulsharma3268@gmail.com
-
-
----
-
-👉 Do you want me to also create **short descriptions for each script/notebook** (like a table of contents with one-liner explanations)? That would make your repo super polished for recruiters.
